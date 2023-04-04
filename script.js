@@ -22,7 +22,7 @@ setTimeout(() => {
                   setTimeout(() => {
                     newElemnt.textContent = "1";
                     setTimeout(()=>{
-                        newElemnt.innerHTML=`<h1>Moodtu poi exam ku Padi da</h1>`
+                        newElemnt.innerHTML=`<h1>Happy Independance Day</h1>`
                     },1000)
                   }, 1000);
                 }, 1000);
